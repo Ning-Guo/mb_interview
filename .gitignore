@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# claude
+.claude
+
+# continue
+.continue
+
+# vscode
+.vscode
+
+# data
+/data
+
+# model
+/models
+
+# intro
+Introduction.md
